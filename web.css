@@ -1,4 +1,3 @@
-<style>
 .form-group flex-property flex-center {
     position: absolute;
     left: -9999px;
@@ -29,4 +28,4 @@ div.message div.content {
 #tabs .tab-content {
     height: 100%!important;
 }
-</style>
+
