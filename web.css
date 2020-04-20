@@ -43,3 +43,25 @@ color : #693fcc;
     background-color: #fff!important;
     color: #693fcc!important;
 }
+
+.form-control {
+    color: #693fcc!important;
+}
+.btn-default {
+    color: #693fcc;
+    border: none!important;
+    border-radius: 100px;
+}
+.welcome {
+    background-color: #50ce85;
+    color: #693fcc;
+}
+
+.emojionearea .emojionearea-editor:empty:before {
+    color: #693fcc!important;
+}
+
+#send-msg-btn {
+    background-color: #693fcc;
+    color: #fff;
+}
