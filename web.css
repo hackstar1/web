@@ -33,6 +33,13 @@ div.message div.content {
 color : #693fcc;
 }
 
-#loginGuestBtn {
- color : #693fcc;
+.btn-primary {
+    background-color: #693fcc!important;
+    border-color: #693fcc!important;
+    border: 1px solid #693fcc!important;
+}
+
+.modal-content {
+    background-color: #fff!important;
+    color: #693fcc!important;
 }
