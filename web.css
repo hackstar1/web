@@ -30,7 +30,7 @@ div.message div.content {
 }
 
 .modal-title{
-color : #693fcc;
+color : #000000;
 }
 
 .btn-primary {
@@ -41,11 +41,11 @@ color : #693fcc;
 
 .modal-content {
     background-color: #fff!important;
-    color: #693fcc!important;
+    color: #000000!important;
 }
 
 .form-control {
-    color: #693fcc!important;
+    color: #000000!important;
 }
 .btn-default {
     color: #693fcc;
@@ -53,15 +53,21 @@ color : #693fcc;
     border-radius: 100px;
 }
 .welcome {
-    background-color: #50ce85;
-    color: #693fcc;
+    background-color: #693fcc;
+    color: #000000;
 }
 
 .emojionearea .emojionearea-editor:empty:before {
-    color: #693fcc!important;
+    color: #000000!important;
 }
 
 #send-msg-btn {
     background-color: #693fcc;
     color: #fff;
+}
+
+.btn-succes.active, .btn-success {
+    background-color: #693fcc;
+    border: 1px solid #693fcc!important;
+    color: #fff!important;
 }
