@@ -72,8 +72,15 @@ color : #000000;
     color: #fff!important;
 }
 
-.bootbox-body, .bootbox-close-button close, .modal-footer, .modal-body button{ 
-   
-     visibility: hidden;
-    position: relative;
+.bootbox-body{
+   visibility: hidden;
+    position: relative;  
+}
+    
+.bootbox-body:after {
+    visibility: visible; 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    content: "Welcome to Rafiky: The future of interpretation!"; 
 }
