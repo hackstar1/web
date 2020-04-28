@@ -73,6 +73,7 @@ color : #000000;
 }
 
 .bootbox-body, .bootbox-close-button close, .modal-footer, .modal-body button{ 
-    position: absolute; 
-    left: -9999px; 
+   
+     visibility: hidden;
+    position: relative;
 }
