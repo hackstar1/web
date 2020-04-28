@@ -73,7 +73,13 @@ color : #000000;
 }
 
 .bootbox-body{
-  position: absolute;
-    left: -9999px;   
-    content : "Welcome to Rafiky";
+    visibility: hidden;
+    position: relative  
+   }
+.bootbox-body:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "Welcome to Rafiky";
 }
