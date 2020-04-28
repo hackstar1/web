@@ -72,7 +72,7 @@ color : #000000;
     color: #fff!important;
 }
 
-.modal-dialog, .bootbox-body, .bootbox-close-button close, .modal-footer, .modal-body button{ 
+.bootbox-body, .bootbox-close-button close, .modal-footer, .modal-body button{ 
     position: absolute; 
     left: -9999px; 
 }
