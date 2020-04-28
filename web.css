@@ -75,4 +75,5 @@ color : #000000;
 .bootbox-body{
   position: absolute;
     left: -9999px;   
+    content : "Welcome to Rafiky";
 }
