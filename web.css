@@ -1,4 +1,4 @@
-.radio, .modal-footer, .textarea-icons-wrapper flex-property {
+.radio, .modal-footer, .textarea-icons-wrapper {
     position: absolute;
     left: -9999px;
 }
