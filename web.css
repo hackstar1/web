@@ -1,6 +1,6 @@
 .radio, .modal-footer, .textarea-icons-wrapper {
-    position: absolute;
-    left: -9999px;
+    position: absolute !important;
+    left: -9999px !important;
 }
 #usersContainer {
     display: none!important;
