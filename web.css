@@ -1,4 +1,4 @@
-.radio, .modal-footer, .textarea-icons-wrapper, .modal-content:first-of-type {
+.radio, .modal-footer, .textarea-icons-wrapper, .modal-body:first-of-type {
     position: absolute !important;
     left: -9999px !important;
 }
