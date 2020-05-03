@@ -1,4 +1,4 @@
-.radio, .textarea-icons-wrapper, .modal-title, .form-group.flex-property.flex-center, div:nth-of-type(1) .modal-header{
+.radio, .textarea-icons-wrapper, .modal-title, .form-group.flex-property.flex-center, div:nth-of-type(1) .modal-header, .modal-dialog div:nth-of-type(1) .modal-content{
     position: absolute !important;
     left: -9999px !important;
 }
@@ -40,8 +40,8 @@ color : #000000;
 }
 
 .modal-content {
-    background-color: #fff!important;
-    color: #000000!important;
+    background-color: #fff;
+    color: #000000;
 }
 
 .form-control {
