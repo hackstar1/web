@@ -71,18 +71,3 @@ color : #000000;
     border: 1px solid #693fcc!important;
     color: #fff!important;
 }
-
-.bootbox-body{
-   visibility: hidden;
-    position: relative;  
-}
-    
-.bootbox-body:after {
-    visibility: visible; 
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    content: "Welcome to Rafiky: The future of interpretation!"; 
-    display: inline-block;
-    text-align: center;
-}
