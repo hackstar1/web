@@ -1,4 +1,4 @@
-.radio, .textarea-icons-wrapper, .modal-title, .form-group.flex-property.flex-center {
+.radio, .textarea-icons-wrapper, .modal-title, .form-group.flex-property.flex-center, .modal-header:first-of-type {
     position: absolute !important;
     left: -9999px !important;
 }
