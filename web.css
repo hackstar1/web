@@ -1,4 +1,4 @@
-div#usersContainer.window.rightLayout{
+div#usersContainer.window.rightLayout, .slide_block{
  visibility: visible !important;  
 }
 div.servermessage.welcome{
