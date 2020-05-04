@@ -1,4 +1,4 @@
-.radio, .textarea-icons-wrapper, .modal-title, .form-group.flex-property.flex-center, div:nth-of-type(1) .modal-header {
+.radio, .textarea-icons-wrapper, .modal-title, .form-group.flex-property.flex-center, div:nth-of-type(1) .modal-header, #sortWebcamtBtn, .watchingMeContainer {
     position: absolute !important;
     left: -9999px !important;
 }
