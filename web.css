@@ -1,3 +1,7 @@
+#usersContainer{
+ visibility: visible !important;  
+}
+
 .radio, .textarea-icons-wrapper, .modal-title, .form-group.flex-property.flex-center, div:nth-of-type(1) .modal-header {
     position: absolute !important;
     left: -9999px !important;
