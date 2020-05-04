@@ -2,9 +2,7 @@
     position: absolute !important;
     left: -9999px !important;
 }
-#usersContainer {
-    display: none!important;
-}
+
 #header {
     display: none!important;
 }
