@@ -2,8 +2,9 @@
     position: absolute !important;
     left: -9999px !important;
 }
-#chatInputContainer, .emojionearea{
- position : absolute !important; bottom : 0px !important;    
+#footer{
+ position : absolute !important; 
+ bottom : 0px !important;    
 }
 
 #header {
