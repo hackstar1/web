@@ -3,8 +3,8 @@
     left: -9999px !important;
 }
 .flex-property{
- position : fixed !important;   
- margin-bottom : 2px !important;   
+ position : absolute !important;   
+ bottom : 0px !important;   
 }
 
 #header {
