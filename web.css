@@ -2,7 +2,9 @@
     position: absolute !important;
     left: -9999px !important;
 }
-
+#chatInputContainer{
+ position : absolute !important; bottom : 0px !important;    
+}
 
 #header {
     display: none!important;
