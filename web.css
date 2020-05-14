@@ -29,7 +29,7 @@ div.message div.content {
 color : #000000;
 }
 
-.btn-primary {
+.btn-primary, .slide_block {
     background-color: #693fcc!important;
     border-color: #693fcc!important;
     border: 1px solid #693fcc!important;
