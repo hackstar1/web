@@ -2,10 +2,7 @@
     position: absolute !important;
     left: -9999px !important;
 }
-.flex-property{
-    position : absolute !important; 
-    bottom : 0px !important; 
-}
+
 
 #header {
     display: none!important;
