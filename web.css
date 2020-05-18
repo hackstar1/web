@@ -25,7 +25,10 @@ div.message div.content {
     margin: 4px 0px;
 }
 
-
+.tab-content{
+ height : 100% !important;   
+    
+}
 
 .modal-title{
 color : #000000;
