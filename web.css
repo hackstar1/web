@@ -29,6 +29,7 @@ div.message div.content {
  height : 100% !important; 
  position : absolute !important;
  bottom : 0px !important;
+ margin-bottom : -25px !important;
     
 }
 
