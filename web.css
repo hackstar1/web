@@ -25,7 +25,7 @@ div.message div.content {
     margin: 4px 0px;
 }
 
-#tabs .tab-content{
+#tabs .tab-content , .tab-pane{
  height : 100% !important; 
  position : absolute !important;
  bottom : 0px !important;
